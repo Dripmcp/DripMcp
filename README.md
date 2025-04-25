@@ -33,7 +33,7 @@
 
 ### Installation  
 ```bash  
-git clone https://github.com/yourusername/dripmcp.git  
+git clone https://github.com/Dripmcp/dripmcp.git  
 cd dripmcp  
 npm install  
 cp .env.example .env  
