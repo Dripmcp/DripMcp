@@ -6,7 +6,7 @@
 
 > Next-generation Web3 automation protocol aggregation platform for seamless multi-chain MCP/A2A integration.  
 
-![Dripmcp Architecture](https://via.placeholder.com/800x400.png?text=Dripmcp+Multi-Protocol+Architecture)  
+
 
 ## 🌟 Core Features  
 
