@@ -6,7 +6,7 @@
 
 > Next-generation Web3 automation protocol aggregation platform for seamless multi-chain MCP/A2A integration.  
 
-![image](https://github.com/Dripmcp/DripMcp/blob/main/public/images/DripMcp%20MultiAgent.png)
+![image](
 
 ## 🌟 Core Features  
 
@@ -108,7 +108,8 @@ await agent.executeWorkflow([
 ]);  
 ```  
 
-## 🌐 Architecture Design  
+## 🌐 Architecture Flows 
+![image](https://github.com/Dripmcp/DripMcp/blob/main/public/images/DripMcp%20MultiAgent.png)
 
 ```  
 ┌───────────────────────────────┐  
