@@ -6,7 +6,7 @@
 
 > Next-generation Web3 automation protocol aggregation platform for seamless multi-chain MCP/A2A integration.  
 
-![image](
+![image](https://github.com/Dripmcp/DripMcp/blob/main/public/images/DripMcp%20Flows.png)
 
 ## 🌟 Core Features  
 
